@@ -42,37 +42,12 @@ public class MainActivity extends AppCompatActivity {
     private void initData() {
         userList = new ArrayList<>();
 
-        userList.add(new ModelClass(R.drawable.gi,"Anjali","How are you?","10:45 am","_______________________________________"));
+        userList.add(new ModelClass(R.drawable.boy,"asad"));
+        userList.add(new ModelClass(R.drawable.girl,"afaq"));
+        userList.add(new ModelClass(R.drawable.bo,"ali"));
+        userList.add(new ModelClass(R.drawable.gi,"Faizan"));
 
-        userList.add(new ModelClass(R.drawable.bo,"Brijesh","I am fine","15:08 pm","_______________________________________"));
 
-        userList.add(new ModelClass(R.drawable.boy,"Sam","You Know?","1:02 am","_______________________________________"));
-
-        userList.add(new ModelClass(R.drawable.girl,"Divya","How are you?","12:55 pm","_______________________________________"));
-
-        userList.add(new ModelClass(R.drawable.gi,"Simran","This is Easy","13:50 am","_______________________________________"));
-
-        userList.add(new ModelClass(R.drawable.boy,"Karan","I am Don","1:08 am","_______________________________________"));
-
-        userList.add(new ModelClass(R.drawable.bo,"Sameer","You Know this?","4:02 am","_______________________________________"));
-
-        userList.add(new ModelClass(R.drawable.girl,"Baby","How ?","11:55 pm","_______________________________________"));
-
-        userList.add(new ModelClass(R.drawable.gi,"Anjali","How are you?","10:45 am","_______________________________________"));
-
-        userList.add(new ModelClass(R.drawable.bo,"Brijesh","I am fine","15:08 pm","_______________________________________"));
-
-        userList.add(new ModelClass(R.drawable.boy,"Sam","You Know?","1:02 am","_______________________________________"));
-
-        userList.add(new ModelClass(R.drawable.girl,"Divya","How are you?","12:55 pm","_______________________________________"));
-
-        userList.add(new ModelClass(R.drawable.gi,"Simran","This is Easy","13:50 am","_______________________________________"));
-
-        userList.add(new ModelClass(R.drawable.boy,"Karan","I am Don","1:08 am","_______________________________________"));
-
-        userList.add(new ModelClass(R.drawable.bo,"Sameer","You Know this?","4:02 am","_______________________________________"));
-
-        userList.add(new ModelClass(R.drawable.girl,"Baby","How ?","11:55 pm","_______________________________________"));
 
 
 

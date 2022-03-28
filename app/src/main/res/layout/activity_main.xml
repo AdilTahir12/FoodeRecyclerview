@@ -12,11 +12,6 @@
         android:id="@+id/RecyclerView"
         android:background="#ffffff"
         >
-
     </androidx.recyclerview.widget.RecyclerView>
-
-
-
-
 
 </RelativeLayout>
