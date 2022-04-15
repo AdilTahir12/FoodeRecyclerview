@@ -23,7 +23,7 @@
                 android:id="@+id/imageview"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                android:scaleType="centerCrop"
+                android:scaleType="fitCenter"
                 android:src="@mipmap/ic_launcher_round"></ImageView>
 
         </androidx.cardview.widget.CardView>
@@ -35,7 +35,7 @@
             android:layout_marginLeft="20dp"
             android:layout_marginTop="20dp"
             android:layout_toRightOf="@id/imageview1"
-            android:text="asad"
+            android:text="Burger"
             android:textColor="#000000"
             android:textSize="20sp" />
     </RelativeLayout>

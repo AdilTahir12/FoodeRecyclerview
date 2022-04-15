@@ -42,10 +42,18 @@ public class MainActivity extends AppCompatActivity {
     private void initData() {
         userList = new ArrayList<>();
 
-        userList.add(new ModelClass(R.drawable.boy,"asad"));
-        userList.add(new ModelClass(R.drawable.girl,"afaq"));
-        userList.add(new ModelClass(R.drawable.bo,"ali"));
-        userList.add(new ModelClass(R.drawable.gi,"Faizan"));
+        userList.add(new ModelClass(R.drawable.burger,"Burger"));
+        userList.add(new ModelClass(R.drawable.sandwich,"Sandwich"));
+        userList.add(new ModelClass(R.drawable.shawarma,"Shawarma"));
+        userList.add(new ModelClass(R.drawable.piza,"Piza"));
+        userList.add(new ModelClass(R.drawable.nuggets,"Nuggets"));
+        userList.add(new ModelClass(R.drawable.fries,"HotFries"));
+        userList.add(new ModelClass(R.drawable.hotdrinks,"HotDrinks"));
+        userList.add(new ModelClass(R.drawable.drinks,"ColdDrinks"));
+        userList.add(new ModelClass(R.drawable.icecream,"IceCream"));
+        userList.add(new ModelClass(R.drawable.candiments,"Candiments"));
+
+
 
 
 
